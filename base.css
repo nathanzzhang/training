@@ -1,0 +1,30 @@
+
+.acmImage{
+    width: 500px;
+}
+
+.Committee_Name.wholesome{
+    font-weight: 400;
+    font-size: x-large;
+    color: beige;
+}
+
+.Committee_Name{
+    color:cadetblue;
+}
+
+#title{
+    background-color: crimson;
+}
+
+p{
+    font-size: xx-large;
+}
+
+
+
+/*
+-IDs
+-Class
+-Tag
+*/
